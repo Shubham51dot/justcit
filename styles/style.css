@@ -1,0 +1,202 @@
+body{
+  background-color: #ea5455;
+  text-align: center;
+  margin: 0;
+}
+
+
+
+.top-container{
+background-color: #ea5455 ;
+  width: 100%;
+  height: 300px;
+
+}
+
+.middle-container{
+
+  width: 100%;
+  height: 565px;
+  position: relative;
+  top: 300px;
+  background-color: #2d4059;
+
+}
+
+.bottom-container{
+  background-color: #ea5455;
+  width: 100%;
+  top: 80%;
+  height: 735px;
+  margin-top: 300px;
+}
+
+.images{
+  width: 10%;
+  position: relative;
+  left: 400px;
+  top: 100px;
+}
+
+.images1{
+  width: 10%;
+  position: relative;
+  right: 400px;
+  top: 200px;
+
+}
+
+
+h1{
+  width: 60%;
+  margin: 0 auto 0 auto;
+  position: relative;
+  top: 150px;
+  font-family: 'Barlow', sans-serif;
+  font-size: 5rem;
+  color: #2d4059;
+  font-weight:900;
+}
+
+.images-1{
+width: 18%;
+top: 1px;
+
+}
+
+p{
+  position: relative;
+  top: 150px;
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 200%;
+  margin: 0 auto 0 auto;
+  color: #2d4059;
+}
+
+h4{
+  width: 30%;
+  margin: 0 auto 0 auto;
+  font-family: 'Barlow', sans-serif;
+  font-size: 4rem;
+  color: #eb8f8f;
+  font-weight:900;
+}
+h3
+{
+  width: 30%;
+  margin: 0 auto 0 auto;
+  font-family: 'Raleway', sans-serif;
+  font-size: 150%;
+  color: #eb8f8f;
+  font-weight:900;
+  line-height: 1.5;
+
+}
+h5
+{
+  width: 40%;
+  margin: 0 auto 0 auto;
+  font-family: 'Barlow', sans-serif;
+  font-size: 4rem;
+  color: #2d4059;
+  font-weight:900;
+}
+
+.street{
+  width: 25%;
+  margin-top:30px;
+  float: left;
+  margin-left: 300px;
+  margin-right: 40px;
+  border: 5px solid #2d4059;
+
+
+}
+h2
+{
+  width: 60%;
+  margin: 0 auto 0 auto;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 2rem;
+  color: #decdc3;
+  font-weight:900;
+  margin-top:20px;
+  text-align: left;
+
+
+}
+.infostreet{
+  width:40%;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1rem;
+  color: #1a1a2e;
+  line-height: 1.5;
+
+
+
+}
+.portrait{
+  width: 20%;
+  margin-top:35px;
+  float: right;
+  margin-left: 300px;
+  margin-right: 300px;
+  border: 5px solid #2d4059;
+
+}
+
+.portrait1{
+  width: 150%;
+  margin: 0 auto 0 auto;
+  font-family: 'Exo 2', sans-serif;
+  font-size: 2rem;
+  color: #decdc3;
+  font-weight:900;
+  margin-top:150px;
+  text-align: right;
+
+}
+.infostreet1{
+  width:80%;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1rem;
+  color: #1a1a2e;
+  line-height: 1.5;
+  text-align: left;
+  margin-left: 300px;
+}
+
+.contact{
+ background-color: #2d4059;
+
+}
+.linkedin{
+
+  font-family: 'Dosis', sans-serif;
+  font-size: 150%;
+  color: #decdc3;
+  font-weight:900;
+  margin-right: 25px;
+
+
+}
+
+.instagram
+{
+  font-family: 'Dosis', sans-serif;
+  font-size: 150%;
+  color: #decdc3;
+  font-weight:900;
+  margin-right: 25px;
+}
+
+.facebook{
+  font-family: 'Dosis', sans-serif;
+  font-size: 150%;
+  color: #decdc3;
+  font-weight:900;
+  margin-right: 25px;
+}
+a:hover{
+  color: #cd0a0a;
+}
